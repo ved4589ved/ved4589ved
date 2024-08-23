@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ved prakash
-- 👀 I’m interested in Data Science specially NLP and time series. 
-- 💞️ I’m looking to collaborate on NLP
+- 👀 I’m interested in Financial time series. 
+- 💞️ I’m looking to collaborate on Financial time series
 - 📫 you can reach me at ved4589@gmail.com
 
 <!---
